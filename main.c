@@ -3,6 +3,7 @@
 #include "main.h"
 
 /**
+ * collaboration
  * main - Entry point
  *
  * Return: Always 0
